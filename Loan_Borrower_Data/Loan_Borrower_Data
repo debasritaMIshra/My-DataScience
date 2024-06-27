@@ -1,0 +1,6 @@
+Peerloankart is an NBFC which facilitates peer-to-peer loans. It connects people who need to borrow(borrowers) with people who have money(investors).As an investor,you would want to invest in people who showed a profile of having a high probability of paying you back. Create a model which will help you predict whether a borrower will repay back the loan.
+fico: credit score given by the credit rating organisation FICO
+credit.policy: 1 if the customer meets the criteria for credit underwriting as specified by FICO
+purpose: The purpose of taking the loan
+not.fully.paid(The previous loan): The dv, its 1 which implies the borrower will not repay back the loan.(0 - fully paid the previous loan)
+1 - did not pay the previous loan)
